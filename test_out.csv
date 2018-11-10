@@ -1,0 +1,1002 @@
+ID,Question Topic
+1,Product Availability
+2,Product Specifications
+3,Product Comparison
+4,Product Specifications
+5,Product Availability
+6,Product Specifications
+7,Product Specifications
+8,Product Comparison
+9,Product Availability
+10,Product Availability
+11,Product Availability
+12,Product Specifications
+13,Product Specifications
+14,Product Specifications
+15,Product Availability
+16,Product Availability
+17,Product Specifications
+18,Product Availability
+19,Product Specifications
+20,Product Availability
+21,Product Availability
+22,Product Availability
+23,Product Availability
+24,Product Availability
+25,Product Availability
+26,Product Comparison
+27,Product Specifications
+28,Product Availability
+29,Product Specifications
+30,Product Availability
+31,Product Availability
+32,Product Availability
+33,Product Specifications
+34,Shipping
+35,Returns & Refunds
+36,Shipping
+37,Returns & Refunds
+38,Shipping
+39,Shipping
+40,Returns & Refunds
+41,Returns & Refunds
+42,Returns & Refunds
+43,Sales/Promotions
+44,Returns & Refunds
+45,Returns & Refunds
+46,Shipping
+47,Shipping
+48,Returns & Refunds
+49,Returns & Refunds
+50,Returns & Refunds
+51,Returns & Refunds
+52,Returns & Refunds
+53,Returns & Refunds
+54,Shipping
+55,Returns & Refunds
+56,Shipping
+57,Sales/Promotions
+58,Returns & Refunds
+59,Shipping
+60,Returns & Refunds
+61,Returns & Refunds
+62,Shipping
+63,Returns & Refunds
+64,Returns & Refunds
+65,Returns & Refunds
+66,Returns & Refunds
+67,Shipping
+68,Returns & Refunds
+69,Shipping
+70,Returns & Refunds
+71,Shipping
+72,Returns & Refunds
+73,Returns & Refunds
+74,Shipping
+75,Returns & Refunds
+76,Returns & Refunds
+77,Returns & Refunds
+78,Returns & Refunds
+79,Returns & Refunds
+80,Product Specifications
+81,Product Specifications
+82,Product Specifications
+83,Product Specifications
+84,Product Specifications
+85,Product Specifications
+86,Product Availability
+87,Product Specifications
+88,Product Specifications
+89,Product Specifications
+90,Product Specifications
+91,Product Specifications
+92,Product Specifications
+93,Product Specifications
+94,Product Availability
+95,Product Specifications
+96,Product Specifications
+97,Product Specifications
+98,Product Specifications
+99,Product Specifications
+100,Product Specifications
+101,Product Specifications
+102,Product Specifications
+103,Product Specifications
+104,Product Specifications
+105,Product Specifications
+106,Product Availability
+107,Product Specifications
+108,Product Specifications
+109,Product Specifications
+110,Product Specifications
+111,Product Specifications
+112,Product Specifications
+113,Product Specifications
+114,Product Specifications
+115,Product Specifications
+116,Product Specifications
+117,Product Specifications
+118,Product Specifications
+119,Product Specifications
+120,Product Specifications
+121,Product Specifications
+122,Product Specifications
+123,Product Availability
+124,Product Specifications
+125,Product Specifications
+126,Shipping
+127,Shipping
+128,Shipping
+129,Shipping
+130,Shipping
+131,Returns & Refunds
+132,Shipping
+133,Shipping
+134,Returns & Refunds
+135,Returns & Refunds
+136,Returns & Refunds
+137,Shipping
+138,Returns & Refunds
+139,Returns & Refunds
+140,Shipping
+141,Shipping
+142,Shipping
+143,Shipping
+144,Shipping
+145,Returns & Refunds
+146,Shipping
+147,Shipping
+148,Shipping
+149,Shipping
+150,Shipping
+151,Returns & Refunds
+152,Returns & Refunds
+153,Shipping
+154,Returns & Refunds
+155,Shipping
+156,Shipping
+157,Returns & Refunds
+158,Shipping
+159,Shipping
+160,Shipping
+161,Shipping
+162,Shipping
+163,Shipping
+164,Returns & Refunds
+165,Shipping
+166,Returns & Refunds
+167,Shipping
+168,Shipping
+169,Shipping
+170,Shipping
+171,Returns & Refunds
+172,Returns & Refunds
+173,Returns & Refunds
+174,Product Comparison
+175,Product Specifications
+176,Product Availability
+177,Product Specifications
+178,Product Specifications
+179,Shipping
+180,Product Specifications
+181,Shipping
+182,Product Availability
+183,Product Specifications
+184,Shipping
+185,Product Availability
+186,Product Availability
+187,Product Specifications
+188,Product Availability
+189,Product Availability
+190,Product Specifications
+191,Sales/Promotions
+192,Product Specifications
+193,Product Specifications
+194,Product Comparison
+195,Product Specifications
+196,Product Comparison
+197,Product Specifications
+198,Product Specifications
+199,Product Specifications
+200,Product Specifications
+201,Product Specifications
+202,Product Specifications
+203,Product Availability
+204,Product Specifications
+205,Product Availability
+206,Product Comparison
+207,Product Specifications
+208,Product Comparison
+209,Product Specifications
+210,Product Specifications
+211,Product Comparison
+212,Product Specifications
+213,Product Availability
+214,Product Specifications
+215,Product Comparison
+216,Product Specifications
+217,Product Availability
+218,Product Specifications
+219,Product Specifications
+220,Product Comparison
+221,Product Specifications
+222,Sales/Promotions
+223,Omnichannel
+224,Sales/Promotions
+225,Omnichannel
+226,Shipping
+227,Sales/Promotions
+228,Omnichannel
+229,Shipping
+230,Omnichannel
+231,Omnichannel
+232,Omnichannel
+233,Omnichannel
+234,Shipping
+235,Sales/Promotions
+236,Sales/Promotions
+237,Sales/Promotions
+238,Omnichannel
+239,Omnichannel
+240,Sales/Promotions
+241,Omnichannel
+242,Omnichannel
+243,Omnichannel
+244,Omnichannel
+245,Sales/Promotions
+246,Shipping
+247,Sales/Promotions
+248,Omnichannel
+249,Omnichannel
+250,Sales/Promotions
+251,Omnichannel
+252,Omnichannel
+253,Omnichannel
+254,Omnichannel
+255,Omnichannel
+256,Omnichannel
+257,Omnichannel
+258,Omnichannel
+259,Sales/Promotions
+260,Omnichannel
+261,Omnichannel
+262,Sales/Promotions
+263,Shipping
+264,Sales/Promotions
+265,Sales/Promotions
+266,Omnichannel
+267,Sales/Promotions
+268,Product Availability
+269,Product Availability
+270,Product Availability
+271,Product Specifications
+272,Product Specifications
+273,Product Availability
+274,Product Availability
+275,Product Availability
+276,Product Comparison
+277,Product Specifications
+278,Product Comparison
+279,Product Availability
+280,Product Specifications
+281,Product Availability
+282,Product Availability
+283,Product Specifications
+284,Product Specifications
+285,Product Availability
+286,Product Availability
+287,Product Specifications
+288,Product Availability
+289,Product Specifications
+290,Product Specifications
+291,Product Availability
+292,Sales/Promotions
+293,Product Availability
+294,Product Availability
+295,Sales/Promotions
+296,Product Availability
+297,Product Specifications
+298,Product Availability
+299,Product Availability
+300,Product Specifications
+301,Product Specifications
+302,Product Availability
+303,Product Specifications
+304,Product Availability
+305,Product Specifications
+306,Returns & Refunds
+307,Product Availability
+308,Product Specifications
+309,Product Availability
+310,Product Availability
+311,Product Availability
+312,Shipping
+313,Sales/Promotions
+314,Sales/Promotions
+315,Sales/Promotions
+316,Sales/Promotions
+317,Shipping
+318,Sales/Promotions
+319,Sales/Promotions
+320,Sales/Promotions
+321,Sales/Promotions
+322,Shipping
+323,Returns & Refunds
+324,Shipping
+325,Shipping
+326,Shipping
+327,Sales/Promotions
+328,Sales/Promotions
+329,Sales/Promotions
+330,Sales/Promotions
+331,Sales/Promotions
+332,Shipping
+333,Sales/Promotions
+334,Shipping
+335,Sales/Promotions
+336,Shipping
+337,Sales/Promotions
+338,Sales/Promotions
+339,Sales/Promotions
+340,Shipping
+341,Shipping
+342,Returns & Refunds
+343,Shipping
+344,Sales/Promotions
+345,Sales/Promotions
+346,Shipping
+347,Sales/Promotions
+348,Shipping
+349,Sales/Promotions
+350,Sales/Promotions
+351,Sales/Promotions
+352,Shipping
+353,Sales/Promotions
+354,Sales/Promotions
+355,Product Specifications
+356,Product Specifications
+357,Product Specifications
+358,Product Specifications
+359,Product Specifications
+360,Product Specifications
+361,Product Specifications
+362,Product Specifications
+363,Product Comparison
+364,Product Specifications
+365,Product Specifications
+366,Product Specifications
+367,Product Comparison
+368,Product Comparison
+369,Product Specifications
+370,Product Specifications
+371,Product Specifications
+372,Product Specifications
+373,Product Specifications
+374,Returns & Refunds
+375,Product Comparison
+376,Product Specifications
+377,Product Comparison
+378,Product Comparison
+379,Product Comparison
+380,Product Specifications
+381,Product Specifications
+382,Product Comparison
+383,Product Comparison
+384,Product Specifications
+385,Product Specifications
+386,Product Specifications
+387,Product Specifications
+388,Product Specifications
+389,Product Comparison
+390,Product Specifications
+391,Product Specifications
+392,Product Specifications
+393,Product Specifications
+394,Product Availability
+395,Product Specifications
+396,Product Specifications
+397,Product Specifications
+398,Product Specifications
+399,Product Specifications
+400,Product Specifications
+401,Returns & Refunds
+402,Returns & Refunds
+403,Returns & Refunds
+404,Returns & Refunds
+405,Returns & Refunds
+406,Sales/Promotions
+407,Returns & Refunds
+408,Returns & Refunds
+409,Returns & Refunds
+410,Returns & Refunds
+411,Returns & Refunds
+412,Returns & Refunds
+413,Returns & Refunds
+414,Returns & Refunds
+415,Returns & Refunds
+416,Returns & Refunds
+417,Returns & Refunds
+418,Returns & Refunds
+419,Returns & Refunds
+420,Returns & Refunds
+421,Returns & Refunds
+422,Returns & Refunds
+423,Returns & Refunds
+424,Returns & Refunds
+425,Returns & Refunds
+426,Returns & Refunds
+427,Returns & Refunds
+428,Returns & Refunds
+429,Returns & Refunds
+430,Returns & Refunds
+431,Returns & Refunds
+432,Returns & Refunds
+433,Returns & Refunds
+434,Returns & Refunds
+435,Returns & Refunds
+436,Returns & Refunds
+437,Returns & Refunds
+438,Returns & Refunds
+439,Returns & Refunds
+440,Returns & Refunds
+441,Returns & Refunds
+442,Returns & Refunds
+443,Returns & Refunds
+444,Returns & Refunds
+445,Product Comparison
+446,Product Availability
+447,Product Comparison
+448,Product Availability
+449,Product Comparison
+450,Product Comparison
+451,Product Comparison
+452,Product Comparison
+453,Product Availability
+454,Product Availability
+455,Product Availability
+456,Product Specifications
+457,Product Comparison
+458,Product Comparison
+459,Product Specifications
+460,Product Availability
+461,Product Comparison
+462,Product Availability
+463,Product Availability
+464,Product Comparison
+465,Product Specifications
+466,Product Availability
+467,Product Availability
+468,Product Comparison
+469,Product Specifications
+470,Product Comparison
+471,Product Specifications
+472,Product Comparison
+473,Product Specifications
+474,Product Comparison
+475,Product Availability
+476,Product Availability
+477,Product Availability
+478,Product Availability
+479,Product Availability
+480,Product Availability
+481,Product Comparison
+482,Product Comparison
+483,Product Comparison
+484,Product Availability
+485,Product Comparison
+486,Product Availability
+487,Product Comparison
+488,Product Comparison
+489,Product Comparison
+490,Product Availability
+491,Sales/Promotions
+492,Shipping
+493,Shipping
+494,Shipping
+495,Shipping
+496,Sales/Promotions
+497,Shipping
+498,Shipping
+499,Shipping
+500,Shipping
+501,Shipping
+502,Shipping
+503,Shipping
+504,Shipping
+505,Shipping
+506,Sales/Promotions
+507,Sales/Promotions
+508,Sales/Promotions
+509,Sales/Promotions
+510,Shipping
+511,Sales/Promotions
+512,Shipping
+513,Shipping
+514,Shipping
+515,Sales/Promotions
+516,Sales/Promotions
+517,Sales/Promotions
+518,Sales/Promotions
+519,Shipping
+520,Shipping
+521,Shipping
+522,Sales/Promotions
+523,Sales/Promotions
+524,Shipping
+525,Shipping
+526,Sales/Promotions
+527,Sales/Promotions
+528,Shipping
+529,Sales/Promotions
+530,Shipping
+531,Shipping
+532,Shipping
+533,Shipping
+534,Shipping
+535,Shipping
+536,Sales/Promotions
+537,Shipping
+538,Product Availability
+539,Product Specifications
+540,Product Availability
+541,Product Specifications
+542,Product Specifications
+543,Product Availability
+544,Product Availability
+545,Product Specifications
+546,Product Availability
+547,Product Availability
+548,Product Comparison
+549,Product Availability
+550,Product Availability
+551,Product Specifications
+552,Product Specifications
+553,Product Availability
+554,Product Availability
+555,Product Availability
+556,Product Availability
+557,Product Availability
+558,Product Availability
+559,Product Availability
+560,Product Availability
+561,Product Availability
+562,Product Availability
+563,Product Comparison
+564,Product Availability
+565,Product Specifications
+566,Product Availability
+567,Product Specifications
+568,Product Specifications
+569,Product Availability
+570,Product Comparison
+571,Product Availability
+572,Product Availability
+573,Product Availability
+574,Product Availability
+575,Product Availability
+576,Product Availability
+577,Product Comparison
+578,Product Availability
+579,Product Comparison
+580,Product Availability
+581,Product Availability
+582,Product Availability
+583,Product Comparison
+584,Product Specifications
+585,Returns & Refunds
+586,Shipping
+587,Shipping
+588,Returns & Refunds
+589,Shipping
+590,Returns & Refunds
+591,Omnichannel
+592,Returns & Refunds
+593,Omnichannel
+594,Returns & Refunds
+595,Returns & Refunds
+596,Shipping
+597,Returns & Refunds
+598,Returns & Refunds
+599,Shipping
+600,Returns & Refunds
+601,Returns & Refunds
+602,Returns & Refunds
+603,Shipping
+604,Shipping
+605,Shipping
+606,Returns & Refunds
+607,Returns & Refunds
+608,Returns & Refunds
+609,Shipping
+610,Returns & Refunds
+611,Returns & Refunds
+612,Shipping
+613,Shipping
+614,Shipping
+615,Returns & Refunds
+616,Shipping
+617,Shipping
+618,Shipping
+619,Returns & Refunds
+620,Returns & Refunds
+621,Returns & Refunds
+622,Returns & Refunds
+623,Omnichannel
+624,Shipping
+625,Returns & Refunds
+626,Shipping
+627,Shipping
+628,Returns & Refunds
+629,Returns & Refunds
+630,Returns & Refunds
+631,Returns & Refunds
+632,Shipping
+633,Omnichannel
+634,Returns & Refunds
+635,Sales/Promotions
+636,Product Specifications
+637,Product Specifications
+638,Product Specifications
+639,Product Comparison
+640,Product Specifications
+641,Product Comparison
+642,Returns & Refunds
+643,Product Specifications
+644,Product Specifications
+645,Product Specifications
+646,Product Comparison
+647,Product Specifications
+648,Product Comparison
+649,Product Specifications
+650,Product Specifications
+651,Product Comparison
+652,Product Specifications
+653,Product Comparison
+654,Product Specifications
+655,Product Specifications
+656,Product Specifications
+657,Product Specifications
+658,Product Comparison
+659,Product Specifications
+660,Product Comparison
+661,Product Comparison
+662,Product Comparison
+663,Product Specifications
+664,Product Specifications
+665,Product Specifications
+666,Product Specifications
+667,Product Specifications
+668,Product Specifications
+669,Product Comparison
+670,Returns & Refunds
+671,Product Specifications
+672,Product Specifications
+673,Product Specifications
+674,Product Specifications
+675,Product Specifications
+676,Product Specifications
+677,Product Specifications
+678,Sales/Promotions
+679,Returns & Refunds
+680,Returns & Refunds
+681,Returns & Refunds
+682,Sales/Promotions
+683,Returns & Refunds
+684,Returns & Refunds
+685,Sales/Promotions
+686,Sales/Promotions
+687,Sales/Promotions
+688,Sales/Promotions
+689,Returns & Refunds
+690,Sales/Promotions
+691,Sales/Promotions
+692,Sales/Promotions
+693,Returns & Refunds
+694,Sales/Promotions
+695,Sales/Promotions
+696,Sales/Promotions
+697,Shipping
+698,Sales/Promotions
+699,Sales/Promotions
+700,Returns & Refunds
+701,Returns & Refunds
+702,Returns & Refunds
+703,Sales/Promotions
+704,Sales/Promotions
+705,Returns & Refunds
+706,Sales/Promotions
+707,Returns & Refunds
+708,Sales/Promotions
+709,Sales/Promotions
+710,Sales/Promotions
+711,Returns & Refunds
+712,Sales/Promotions
+713,Returns & Refunds
+714,Sales/Promotions
+715,Shipping
+716,Returns & Refunds
+717,Sales/Promotions
+718,Returns & Refunds
+719,Sales/Promotions
+720,Sales/Promotions
+721,Returns & Refunds
+722,Sales/Promotions
+723,Sales/Promotions
+724,Product Specifications
+725,Product Specifications
+726,Product Availability
+727,Product Specifications
+728,Product Availability
+729,Product Comparison
+730,Product Availability
+731,Product Availability
+732,Product Availability
+733,Product Comparison
+734,Returns & Refunds
+735,Product Comparison
+736,Returns & Refunds
+737,Product Specifications
+738,Product Comparison
+739,Product Comparison
+740,Product Specifications
+741,Product Availability
+742,Product Specifications
+743,Product Availability
+744,Product Availability
+745,Returns & Refunds
+746,Product Comparison
+747,Product Comparison
+748,Product Availability
+749,Product Comparison
+750,Product Specifications
+751,Product Availability
+752,Returns & Refunds
+753,Product Availability
+754,Product Specifications
+755,Product Specifications
+756,Product Availability
+757,Product Comparison
+758,Product Availability
+759,Product Availability
+760,Product Availability
+761,Returns & Refunds
+762,Product Availability
+763,Product Availability
+764,Returns & Refunds
+765,Returns & Refunds
+766,Product Comparison
+767,Product Availability
+768,Product Specifications
+769,Sales/Promotions
+770,Sales/Promotions
+771,Returns & Refunds
+772,Sales/Promotions
+773,Product Availability
+774,Returns & Refunds
+775,Returns & Refunds
+776,Returns & Refunds
+777,Returns & Refunds
+778,Sales/Promotions
+779,Returns & Refunds
+780,Returns & Refunds
+781,Returns & Refunds
+782,Returns & Refunds
+783,Returns & Refunds
+784,Sales/Promotions
+785,Returns & Refunds
+786,Returns & Refunds
+787,Sales/Promotions
+788,Returns & Refunds
+789,Sales/Promotions
+790,Returns & Refunds
+791,Sales/Promotions
+792,Returns & Refunds
+793,Sales/Promotions
+794,Sales/Promotions
+795,Returns & Refunds
+796,Sales/Promotions
+797,Product Specifications
+798,Returns & Refunds
+799,Returns & Refunds
+800,Returns & Refunds
+801,Sales/Promotions
+802,Sales/Promotions
+803,Returns & Refunds
+804,Sales/Promotions
+805,Returns & Refunds
+806,Sales/Promotions
+807,Returns & Refunds
+808,Returns & Refunds
+809,Returns & Refunds
+810,Returns & Refunds
+811,Returns & Refunds
+812,Returns & Refunds
+813,Product Availability
+814,Returns & Refunds
+815,Returns & Refunds
+816,Product Availability
+817,Returns & Refunds
+818,Omnichannel
+819,Product Availability
+820,Product Specifications
+821,Product Specifications
+822,Product Availability
+823,Product Specifications
+824,Product Availability
+825,Product Availability
+826,Product Availability
+827,Product Specifications
+828,Product Availability
+829,Product Availability
+830,Product Specifications
+831,Product Specifications
+832,Omnichannel
+833,Product Availability
+834,Omnichannel
+835,Product Availability
+836,Product Availability
+837,Product Availability
+838,Product Specifications
+839,Product Specifications
+840,Product Availability
+841,Product Availability
+842,Product Availability
+843,Product Availability
+844,Product Availability
+845,Product Availability
+846,Product Availability
+847,Product Specifications
+848,Product Availability
+849,Product Availability
+850,Product Availability
+851,Product Availability
+852,Product Specifications
+853,Product Availability
+854,Product Availability
+855,Product Availability
+856,Product Availability
+857,Product Specifications
+858,Product Availability
+859,Product Specifications
+860,Product Availability
+861,Product Specifications
+862,Product Availability
+863,Returns & Refunds
+864,Product Specifications
+865,Shipping
+866,Shipping
+867,Shipping
+868,Shipping
+869,Shipping
+870,Shipping
+871,Shipping
+872,Shipping
+873,Shipping
+874,Shipping
+875,Shipping
+876,Shipping
+877,Shipping
+878,Shipping
+879,Product Availability
+880,Shipping
+881,Shipping
+882,Shipping
+883,Shipping
+884,Shipping
+885,Shipping
+886,Shipping
+887,Product Specifications
+888,Shipping
+889,Shipping
+890,Shipping
+891,Shipping
+892,Shipping
+893,Shipping
+894,Shipping
+895,Shipping
+896,Shipping
+897,Shipping
+898,Shipping
+899,Shipping
+900,Shipping
+901,Shipping
+902,Shipping
+903,Shipping
+904,Shipping
+905,Shipping
+906,Product Specifications
+907,Shipping
+908,Shipping
+909,Shipping
+910,Product Specifications
+911,Product Specifications
+912,Product Specifications
+913,Product Specifications
+914,Product Comparison
+915,Product Specifications
+916,Product Specifications
+917,Product Comparison
+918,Product Specifications
+919,Product Specifications
+920,Product Specifications
+921,Product Comparison
+922,Product Specifications
+923,Product Comparison
+924,Product Comparison
+925,Product Specifications
+926,Product Specifications
+927,Returns & Refunds
+928,Product Availability
+929,Product Comparison
+930,Product Specifications
+931,Product Specifications
+932,Product Comparison
+933,Product Comparison
+934,Product Specifications
+935,Product Specifications
+936,Product Specifications
+937,Product Specifications
+938,Product Specifications
+939,Product Specifications
+940,Product Specifications
+941,Product Specifications
+942,Product Specifications
+943,Product Specifications
+944,Returns & Refunds
+945,Product Specifications
+946,Returns & Refunds
+947,Product Specifications
+948,Product Specifications
+949,Product Comparison
+950,Product Specifications
+951,Product Specifications
+952,Product Specifications
+953,Omnichannel
+954,Returns & Refunds
+955,Omnichannel
+956,Omnichannel
+957,Omnichannel
+958,Omnichannel
+959,Omnichannel
+960,Omnichannel
+961,Omnichannel
+962,Omnichannel
+963,Returns & Refunds
+964,Product Specifications
+965,Returns & Refunds
+966,Omnichannel
+967,Returns & Refunds
+968,Returns & Refunds
+969,Omnichannel
+970,Omnichannel
+971,Omnichannel
+972,Omnichannel
+973,Returns & Refunds
+974,Omnichannel
+975,Returns & Refunds
+976,Omnichannel
+977,Returns & Refunds
+978,Omnichannel
+979,Returns & Refunds
+980,Omnichannel
+981,Omnichannel
+982,Omnichannel
+983,Product Comparison
+984,Returns & Refunds
+985,Product Comparison
+986,Omnichannel
+987,Returns & Refunds
+988,Returns & Refunds
+989,Omnichannel
+990,Omnichannel
+991,Returns & Refunds
+992,Omnichannel
+993,Omnichannel
+994,Omnichannel
+995,Returns & Refunds
+996,Product Specifications
+997,Omnichannel
+998,Product Specifications
+999,Shipping
+1000,Shipping
+1001,Product Comparison
