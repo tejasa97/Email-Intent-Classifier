@@ -11,4 +11,4 @@
 - Omnichannel
 
 The program trains on a training dataset and then predicts the intents for the testing dataset.
-CV accuracy obtained on the training dataset by splitting in ratio 80 : 20 using the CountVectorizer algorithm is obtained as 91.875 %.
+CV accuracy obtained on the training dataset by splitting in ratio *80 : 20* using the CountVectorizer algorithm is obtained as **91.875 %**.
