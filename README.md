@@ -1,6 +1,7 @@
 # Email Intent Classifier
 ## A NLP program that predicts the intent of a customer query email.
 
+### (Datasets not put up due to privacy reasons. Email if needed)
 ### An incoming email can have one of the folllowing 6 intents
 - Sales/Promotion
 - Product Specifications
